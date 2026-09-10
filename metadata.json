@@ -1,0 +1,6 @@
+{
+  "name": "GLOBAL TOP - Trámites y Apostillas",
+  "description": "Plataforma de trámites consulares, apostillas express y citas internacionales 100% online sin filas ni enredos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
